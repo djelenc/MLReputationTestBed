@@ -1,6 +1,5 @@
 package jaspr.core.agent
 
-import jaspr.core.service.Payload
 import jaspr.utilities.{Chooser, NamedEntity}
 
 import scala.collection.immutable.SortedMap
